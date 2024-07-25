@@ -347,10 +347,9 @@ body {
   margin: 20px auto 0px;
   background-color: black;
   width: 90%;
-  height: 45vh;
   border-radius: 10px;
   border-top: 10px solid var(--Lime);
-  padding: 0 20px;
+  padding:20px;
 }
 .show-result-box p {
   font-size: 1.5rem;
@@ -401,7 +400,7 @@ body {
   .calculator-container {
     width: 100%;
     padding: 20px;
-    height: 75%;
+    height: 60%;
   }
   .mortage-calculator-wrapper {
     width: 100%;
@@ -462,12 +461,17 @@ body {
   }
   .show-result-box{
     margin: 20px 0;
-    padding-bottom: 20px;
   }
   .result-container{
     padding-left: 30px;
   }
+  .show-result-box h1{
+    margin-top: 10px;
+  }
   .result-container p {
+    margin-top: 10px;
+  }
+  .result-container h1 {
     margin-top: 10px;
   }
  
