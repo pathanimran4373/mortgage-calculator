@@ -23,7 +23,7 @@ body {
   --Slate900: hsl(202, 55%, 16%);
 }
 .mortgage-page {
-  height: 100vh;
+  height: 100%;
   width: 100vw;
   background-color: var(--Slate100);
   display: flex;
@@ -40,7 +40,6 @@ body {
 }
 .calculator-container {
   width: 50%;
-  height: 100%;
   padding: 20px;
 }
 .heading {
@@ -400,7 +399,6 @@ body {
   .calculator-container {
     width: 100%;
     padding: 20px;
-    height: 60%;
   }
   .mortage-calculator-wrapper {
     width: 100%;
@@ -440,13 +438,11 @@ body {
   }
   .result-container-wrapper {
     width: 100%;
-    height:70%;
+    height:60%;
     border-radius: 0px;
-    background-color: var(--Slate900);
   }
   .calculater-image-container {
     width: 80%;
-    padding: 30px 0;
     margin: 0 auto;
   }
   .calculater-image-container img {
