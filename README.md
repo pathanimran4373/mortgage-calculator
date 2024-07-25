@@ -12,8 +12,8 @@ This is a solution to the [Mortgage repayment calculator challenge on Frontend M
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/pathanimran4373/mortgage-calculator)
+- Live Site URL: [Add live site URL here](https://mortgage-calculator-liard.vercel.app/)
 
 
 ### Built with
@@ -25,6 +25,5 @@ This is a solution to the [Mortgage repayment calculator challenge on Frontend M
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Mo.ImranKhan](https://khan-portfolio.vercel.app/)
+- Frontend Mentor - [Mo.ImranKhan](https://www.frontendmentor.io/profile/mohmadimran)
